@@ -1,0 +1,150 @@
+# Ziv Williams projects
+
+> Ziv Williams (also known as WYDERZIV) is a founder, builder and music artist in Lagos, Nigeria. This file lists his live projects in plain English so assistants and search tools can describe and recommend them accurately. Contact: X https://x.com/PowerExchange3
+
+
+## One Chance
+
+Page: https://vmf-creator.github.io/one-chance/
+Live: https://okan-onechance.surge.sh/
+
+One Chance is a free 3D open-street game set in Lagos, Nigeria. It runs straight in your phone's web browser, so there is nothing to install and no app store. It also works offline once it has loaded, and there is an Android app.
+
+You start with one chance and hustle your way across the city: from Ojota to Lekki, through Yaba, Ikeja and the Island. Catch a danfo or a keke, hop on an okada, drive your own car, take the chopper, or board a flight from Eko International Airport.
+
+The city is full of life: street crowds, shops, a barber, Eko Mercy Specialist Hospital, your own crib with a sofa and a kitchen, a soccer pitch, police on patrol, day and night, and a map of Lagos local government areas. Watch out for one chance buses.
+
+Highlights:
+- Plays in the phone browser, no download
+- Danfo, keke, okada, cars, chopper and flights
+- Barber, shops, hospital, your own crib
+- Soccer, police chases, day and night
+- Works offline after first load; Android app too
+- Made in Lagos by Ziv Williams
+
+## OKAN
+
+Page: https://vmf-creator.github.io/okan/
+Live: https://okan-app.surge.sh/
+
+OKAN (Ọkàn means "heart" in Yoruba) is a personal assistant app built in Lagos, Nigeria. You can talk to it by voice or by text in Yoruba, Igbo, Hausa, French and English, and it answers in your language.
+
+OKAN helps with everyday work: answering questions, reading documents, writing CVs, business plans and messages, finding real business leads with checked phone numbers and emails, creating images, building simple bots and agents, and planning your day.
+
+It opens in any phone browser, can be added to your home screen like an app, and there is an Android app. Sign in with Google or email to keep your chats and history.
+
+Highlights:
+- Voice and text in Yoruba, Igbo, Hausa, French and English
+- Find leads: real businesses with checked contacts
+- Create images, documents and plans
+- Build bots and agents for your business
+- Works in any phone browser; Android app
+- Made in Lagos by Ziv Williams
+
+## SolutionB20
+
+Page: https://vmf-creator.github.io/solutionb20/
+Live: https://solutionb20.surge.sh/
+
+SolutionB20 is a digital agency in Lagos, Nigeria, founded by Ziv Williams. It builds systems that bring in the right clients, filter them, and turn them into paying customers.
+
+That means lead systems that send you a steady flow of qualified prospects, calls that book themselves with automatic follow-up so no lead is lost to a slow reply, one clear pipeline for every client and deal, and mobile websites built to convert, not just to look nice. The SolutionB20 Academy teaches these skills to beginners.
+
+Every project starts with a free audit: how leads find you, how you follow up, and where deals slip away.
+
+Highlights:
+- Lead systems that filter prospects
+- Automatic booking and follow-up
+- One pipeline for every client
+- Websites built to convert
+- Free audit to start
+- SolutionB20 Academy
+
+## Ziv Williams Edits
+
+Page: https://vmf-creator.github.io/edits/
+Live: https://ziv-edits.surge.sh/
+
+Ziv Williams edits short-form video for brands, artists and small businesses in Lagos and abroad: Instagram Reels, TikToks, YouTube Shorts, 60-second ads, event recaps and story edits with motion graphics.
+
+Most edits come back in 24 to 48 hours. A paid test edit is available so you can see the quality before a bigger job, and monthly retainers are available for regular posting.
+
+The portfolio has a showreel, sample work and clear prices.
+
+Highlights:
+- Reels, TikToks and YouTube Shorts
+- 60-second ads and promo videos
+- Event recaps and story edits
+- Motion graphics and captions
+- 24 to 48 hour turnaround
+- Paid test edit and monthly retainer
+
+## Lagos Small Business Starter Pack
+
+Page: https://vmf-creator.github.io/starter-pack/
+Live: https://lagos-biz-pack.surge.sh/
+
+The Lagos Small Business Starter Pack is a ready-made design kit for Nigerian small businesses: food spots, salons, barbers, fashion, events, shops and services.
+
+It has 30 editable flyers, menus and price lists, 85 WhatsApp status and post captions, and 12 customer reply scripts. You edit everything on your phone in Canva or PowerPoint, add your prices and logo, and post the same day.
+
+There is a do-it-yourself pack and a version where it is set up for you.
+
+Highlights:
+- 30 flyers, menus and price lists
+- 85 WhatsApp captions
+- 12 customer reply scripts
+- Edit on your phone in Canva or PowerPoint
+- DIY or done-for-you setup
+
+## SoundLab Release Service
+
+Page: https://vmf-creator.github.io/soundlab/
+Live: https://soundlab-release.surge.sh/
+
+SoundLab Release Service helps independent Nigerian and African artists put their music on every major platform: Spotify, Apple Music, Audiomack, Boomplay, TikTok, YouTube Music and more.
+
+You send your track, artist name and release date on WhatsApp. SoundLab prepares the metadata, cover art, promo clips and a release-day plan, depending on your package, and you approve everything before it goes out.
+
+It is run by Ziv Williams, who releases music himself as WYDERZIV.
+
+Highlights:
+- Spotify, Apple Music, Audiomack, Boomplay
+- TikTok and YouTube Music
+- Metadata, cover art and promo clips
+- Release-day plan
+- You keep your royalties and masters
+
+## Lagos Stays
+
+Page: https://vmf-creator.github.io/lagos-stays/
+Live: https://lagos-stays.surge.sh/
+
+Lagos Stays is a simple way to book a shortlet apartment or hotel in Lagos through WhatsApp, with places that have been checked first.
+
+It covers Lekki, Victoria Island, Ikoyi, Ikeja, Yaba and Ajah. Pick the area, dates, guests and budget, and it opens WhatsApp with everything filled in. Before a place is recommended, the host, the address and the photos are checked against the real apartment.
+
+Hosts and hotels can list for free and pay a 10% commission only when a booking is confirmed.
+
+Highlights:
+- Shortlets and hotels across Lagos
+- Lekki, VI, Ikoyi, Ikeja, Yaba, Ajah
+- Book on WhatsApp
+- Hosts list free, 10% only on confirmed bookings
+
+## OKAN Swap
+
+Page: https://vmf-creator.github.io/okan-swap/
+Live: https://okan-swap.surge.sh/
+
+OKAN Swap is a simple web page for swapping Solana tokens. Connect your own wallet, pick the tokens, and it finds the best route across Solana exchanges.
+
+It is non-custodial: OKAN Swap never holds your coins or your keys, and every swap is signed in your own wallet.
+
+It is built by SolutionB20 in Lagos. Crypto prices move fast; only swap what you can afford to lose.
+
+Highlights:
+- Any Solana token
+- Best route across exchanges
+- Non-custodial: your wallet, your keys
+- Works in the phone browser with a wallet app
